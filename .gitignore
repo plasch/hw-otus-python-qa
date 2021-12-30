@@ -130,3 +130,7 @@ dmypy.json
 
 # PyCharm project
 .idea
+
+#allure
+allure-results/
+allure-report/
